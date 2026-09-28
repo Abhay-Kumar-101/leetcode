@@ -35,4 +35,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
