@@ -23,4 +23,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
