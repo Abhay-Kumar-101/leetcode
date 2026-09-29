@@ -26,6 +26,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -38,9 +39,11 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
