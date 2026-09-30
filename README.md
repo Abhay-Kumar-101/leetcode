@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0682-baseball-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
