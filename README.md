@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0844-backspace-string-compare/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +53,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0844-backspace-string-compare/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0844-backspace-string-compare/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
