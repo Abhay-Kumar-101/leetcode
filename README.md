@@ -62,4 +62,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0844-backspace-string-compare/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Abhay-Kumar-101/leetcode/tree/main/C++/Easy/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
